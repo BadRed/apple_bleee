@@ -367,7 +367,8 @@ siri_dev = {'0002': 'iPhone',
             '0003': 'iPad',
             '0009': 'MacBook',
             '000a': 'Watch',
-	    '0010': 'Unknown',
+	        '0010': 'Unknown',
+            '0f20': 'New event',
             }
 
 magic_sw_wrist = {
